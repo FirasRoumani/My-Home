@@ -1,0 +1,14 @@
+<resources>
+    <dimen name="icon_size_large">32dp</dimen>
+    <dimen name="padding_icon_size_large">8dp</dimen>
+    <dimen name="padding_card_container">5dp</dimen>
+    <dimen name="text_small">8sp</dimen>
+    <dimen name="side_menu_list_item_image_size">45dp</dimen>
+
+    <dimen name="text_size_small">12sp</dimen>
+
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="icon_size_large_extra">64dp</dimen>
+
+
+</resources>

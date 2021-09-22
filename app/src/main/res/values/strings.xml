@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Home</string>
+    <string name="error_could_not_connect">Could not connect</string>
+    <string name="error_during_load">Could not load data</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="action_search">search</string>
+    <string name="search_hint">search by Device Name</string>
+    <string name="action_sort_by_name">sort by player name</string>
+</resources>
